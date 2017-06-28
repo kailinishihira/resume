@@ -1,0 +1,19 @@
+.resumebody {
+  font-size: 30px;
+}
+
+.resumebody h3 {
+  color: red;
+}
+
+.resumebody h4 {
+  color: orange;
+}
+
+.resumebody h5 {
+  color: green;
+}
+
+.itisdolor {
+  color: purple;
+}
